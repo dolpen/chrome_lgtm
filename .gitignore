@@ -1,0 +1,24 @@
+Thumbs.db
+ehthumbs.db
+.DS_Store
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# JetBrains
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Eclipse Core
+.project

@@ -1,6 +1,3 @@
-/**
- * Created by yamada on 2015/01/05.
- */
 $(function () {
     chrome.browserAction.onClicked.addListener(function (tab) {
         $.getJSON("http://www.lgtm.in/g", function (e) {
